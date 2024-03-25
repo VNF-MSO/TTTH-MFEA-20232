@@ -1,0 +1,4 @@
+Lựa chọn 2 bài toán tối ưu KP và QAP:
+Bước 1: Tạo ngẫu nhiên quần thể của bài toán và gán các cá thể vào 1 trong 2 task
+Bước 2: Sử dụng thuật toán MFO
+Bước 3: Decode bài toán(QAP thì đơn giản, KP sử dụng single-linkage). Với bài toán KP thì khi phân chia cụm thì có thể không thỏa mãn KP thì phân chia lại theo thuật toán Dantzig.
